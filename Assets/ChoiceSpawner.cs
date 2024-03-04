@@ -31,10 +31,12 @@ public class ChoiceSpawner : MonoBehaviour
             newBtn.GetComponent<RectTransform>().position = buttonParent.position + new Vector3(0, -i * ySpacing);
             
             newBtn.GetComponentInChildren<TextMeshProUGUI>().SetText(dialogueChoices[i].choiceText);
-            
+
+            var action = dialogueChoices[i].onChoice;
+
             newBtn.onClick.AddListener(() =>
             {
-                dialogueChoices[i].onChoice?.Invoke();
+                action?.Invoke();
                 DestroyChildren();
                 
                 background.SetActive(false);
