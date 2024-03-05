@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ball-room_0: 3884677629961619283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

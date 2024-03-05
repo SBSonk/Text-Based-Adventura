@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      japanese-festival_0: -6077661389778590395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

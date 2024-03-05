@@ -16,6 +16,9 @@ public class TextReader : MonoBehaviour
     public TextMeshProUGUI textReaderUI, nameUI;
     public GameObject continueArrow;
 
+    string lastText;
+    UnityAction OnTextEnd;
+
     public void ShowText(string name, string text, UnityAction OnTextStart, UnityAction OnTextFinish)
     {
         StopAllCoroutines();
@@ -25,6 +28,18 @@ public class TextReader : MonoBehaviour
     private void Awake()
     {
         main = this;
+    }
+    
+    public void SkipAnimationText()
+    {
+        StopAllCoroutines();
+
+        textReaderUI.SetText(lastText);
+        OnTextEnd?.Invoke();
+
+        continueArrow.SetActive(true);
+
+        displayingText = false;
     }
     
     IEnumerator DisplayTextAnimation(string name, string text, UnityAction OnTextStart, UnityAction OnTextFinish)
@@ -40,6 +55,9 @@ public class TextReader : MonoBehaviour
 
         WaitForSeconds charTimer = new WaitForSeconds(characterTime);
         WaitForSeconds commaTimer = new WaitForSeconds(specialCharacterTime);
+
+        lastText = text;
+        OnTextEnd = OnTextFinish;
 
         for (int i = 0; i < text.Length; i++)
         {

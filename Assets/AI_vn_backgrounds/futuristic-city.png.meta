@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      futuristic-city_0: -4475051857562376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

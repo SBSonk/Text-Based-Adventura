@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      isolated-japanese-room_0: 2128302066479993601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

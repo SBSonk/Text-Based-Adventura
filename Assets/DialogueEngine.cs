@@ -36,9 +36,9 @@ public class DialogueEngine : MonoBehaviour
         {
             if (index <= dialogue.Length-1) ShowNext();
         }
-        else
+        else if (Input.GetButtonDown("Jump") && !canProceed)
         {
-            
+            textReader.SkipAnimationText();
         }
     }
 

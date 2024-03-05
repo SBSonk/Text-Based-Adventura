@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arcades_0: 7495322839906650259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

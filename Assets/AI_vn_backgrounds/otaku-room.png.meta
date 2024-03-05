@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      otaku-room_0: -987829459672230063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

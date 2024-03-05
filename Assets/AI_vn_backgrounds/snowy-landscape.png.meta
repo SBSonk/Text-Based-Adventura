@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      snowy-landscape_0: 5448482942434556969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

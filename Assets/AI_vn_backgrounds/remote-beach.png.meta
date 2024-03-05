@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      remote-beach_0: -2047585677244080111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

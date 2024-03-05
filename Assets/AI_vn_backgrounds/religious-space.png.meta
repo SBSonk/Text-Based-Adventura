@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      religious-space_0: 6434732130577144979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      japan-street_0: -4282981850131235465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tea-room_0: 910448489808291716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

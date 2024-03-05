@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lake-shore_0: 7641780388791395739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

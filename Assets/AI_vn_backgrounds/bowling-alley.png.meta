@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bowling-alley_0: 4292457664973479452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

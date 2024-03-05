@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      club-room_0: -4917576580518848380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

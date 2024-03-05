@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vending-machines-outside_0: -7263418350097214438
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

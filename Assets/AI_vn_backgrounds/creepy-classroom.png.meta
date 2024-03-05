@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      creepy-classroom_0: 5421810225969166587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

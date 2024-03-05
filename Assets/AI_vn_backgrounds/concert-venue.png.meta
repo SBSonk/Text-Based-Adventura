@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      concert-venue_0: 866298086996146494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

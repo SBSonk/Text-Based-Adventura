@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      creepy-supernatural-street_0: -8812259560266273428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

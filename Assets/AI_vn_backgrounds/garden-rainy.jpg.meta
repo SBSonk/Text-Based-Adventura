@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      garden-rainy_0: 2609325983020593650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

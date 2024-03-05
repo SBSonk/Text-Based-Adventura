@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      livingroom-night_0: -1988634322243520104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zoological-garden-zoo_0: 240578610205082485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

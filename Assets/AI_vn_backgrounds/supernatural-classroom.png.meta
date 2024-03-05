@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      supernatural-classroom_0: -1692775403006714717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

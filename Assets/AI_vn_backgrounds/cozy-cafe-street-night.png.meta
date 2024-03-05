@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cozy-cafe-street-night_0: 2721974500994249443
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

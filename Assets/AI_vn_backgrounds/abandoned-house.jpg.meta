@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abandoned-house_0: -5287251026417210632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

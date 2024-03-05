@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rooftop-city-night_0: -3711096974292372715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

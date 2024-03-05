@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bedroom-with-books_0: 2321768301372452718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

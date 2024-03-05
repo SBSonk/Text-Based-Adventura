@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hiking-trail_0: -5206890207780240658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

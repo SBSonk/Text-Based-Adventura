@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      music-classroom_0: -3087816628242696994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      backyard-night_0: 9027874814113540057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

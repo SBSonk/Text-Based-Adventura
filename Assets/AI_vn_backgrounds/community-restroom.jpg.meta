@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      community-restroom_0: 5634093200582936619
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

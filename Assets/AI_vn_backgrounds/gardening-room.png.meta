@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gardening-room_0: -875223103024445082
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

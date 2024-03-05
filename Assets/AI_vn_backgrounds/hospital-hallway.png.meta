@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hospital-hallway_0: -7844086689883608234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cooking-classroom_0: 488033755982958508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      teachers-room_0: -3442513510946088691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

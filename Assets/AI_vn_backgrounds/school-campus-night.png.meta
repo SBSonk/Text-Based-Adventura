@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      school-campus-night_0: 9071178078923304125
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bedroom-boy_0: 153140831169403694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      park-bench_0: -2070259322516087046
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crafting-engineering-room_0: -1036991580634952507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

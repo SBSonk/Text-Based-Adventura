@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magical-cave_0: -4568626597470503989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

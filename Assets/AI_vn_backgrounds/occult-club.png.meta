@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      occult-club_0: -3262076674164015935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

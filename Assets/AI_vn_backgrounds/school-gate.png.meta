@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      school-gate_0: 6240366551749584307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

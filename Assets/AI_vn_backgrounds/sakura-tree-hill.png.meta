@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sakura-tree-hill_0: 6967356319360046563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

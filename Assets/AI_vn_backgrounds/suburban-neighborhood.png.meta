@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      suburban-neighborhood_0: -4900671529091063843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

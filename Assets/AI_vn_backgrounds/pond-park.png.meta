@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pond-park_0: 2325545772511808802
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

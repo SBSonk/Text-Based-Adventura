@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      party-hall_0: 3951570441046191557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

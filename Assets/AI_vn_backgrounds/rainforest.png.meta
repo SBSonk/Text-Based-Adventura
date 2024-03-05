@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rainforest_0: 8623272615763423323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

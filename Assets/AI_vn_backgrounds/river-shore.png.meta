@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      river-shore_0: 776884030945551932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

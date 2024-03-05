@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bedroom-day_0: -8807549406550710949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chemistry-classroom_0: 4314494101611426988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

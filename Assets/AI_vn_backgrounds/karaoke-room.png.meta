@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      karaoke-room_0: -414954554906708267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

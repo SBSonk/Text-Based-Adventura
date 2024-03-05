@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      park-field_0: 8974670825849040536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
