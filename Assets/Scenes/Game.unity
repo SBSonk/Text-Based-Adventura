@@ -864,6 +864,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - name: 
+    text: You keep reviewing...
+    dialogueChoices: []
+    onDialogueStart:
+      m_PersistentCalls:
+        m_Calls: []
+    onDialogueFinish:
+      m_PersistentCalls:
+        m_Calls: []
+    jumpIndex: 0
+    index: 0
+  - name: 
     text: With a sense of urgency, you sat down on your chair.
     dialogueChoices: []
     onDialogueStart:
@@ -1008,17 +1019,6 @@ MonoBehaviour:
     jumpIndex: 0
     index: 0
   - name: 
-    text: You keep reviewing...
-    dialogueChoices: []
-    onDialogueStart:
-      m_PersistentCalls:
-        m_Calls: []
-    onDialogueFinish:
-      m_PersistentCalls:
-        m_Calls: []
-    jumpIndex: 0
-    index: 0
-  - name: 
     text: A few hours pass...
     dialogueChoices: []
     onDialogueStart:
@@ -1105,6 +1105,76 @@ MonoBehaviour:
     onDialogueFinish:
       m_PersistentCalls:
         m_Calls: []
+    jumpIndex: 0
+    index: 0
+  - name: 
+    text: A few hours pass...
+    dialogueChoices: []
+    onDialogueStart:
+      m_PersistentCalls:
+        m_Calls: []
+    onDialogueFinish:
+      m_PersistentCalls:
+        m_Calls: []
+    jumpIndex: 0
+    index: 0
+  - name: You
+    text: I'm feeling very sleepy...
+    dialogueChoices: []
+    onDialogueStart:
+      m_PersistentCalls:
+        m_Calls: []
+    onDialogueFinish:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 493226308}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 1447567918}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 1324473277}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 1452048843}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
     jumpIndex: 0
     index: 0
   textReader: {fileID: 0}

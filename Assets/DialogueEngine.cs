@@ -32,11 +32,11 @@ public class DialogueEngine : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetButtonDown("Jump") && canProceed)
+        if ((Input.GetButtonDown("Jump") || Input.GetMouseButtonDown(0)) && canProceed)
         {
             if (index <= dialogue.Length-1) ShowNext();
         }
-        else if (Input.GetButtonDown("Jump") && !canProceed)
+        else if ((Input.GetButtonDown("Jump") || Input.GetMouseButtonDown(0)) && !canProceed)
         {
             textReader.SkipAnimationText();
         }

@@ -40,6 +40,8 @@ public class TextReader : MonoBehaviour
         continueArrow.SetActive(true);
 
         displayingText = false;
+
+        OnTextEnd = null;
     }
     
     IEnumerator DisplayTextAnimation(string name, string text, UnityAction OnTextStart, UnityAction OnTextFinish)
@@ -47,6 +49,8 @@ public class TextReader : MonoBehaviour
         OnTextStart?.Invoke();
         displayingText = true;
 
+        OnTextEnd = OnTextFinish;   
+        
         continueArrow.SetActive(false);
 
         nameUI.SetText(name);
@@ -57,7 +61,6 @@ public class TextReader : MonoBehaviour
         WaitForSeconds commaTimer = new WaitForSeconds(specialCharacterTime);
 
         lastText = text;
-        OnTextEnd = OnTextFinish;
 
         for (int i = 0; i < text.Length; i++)
         {
