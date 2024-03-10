@@ -1,6 +1,8 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;using UnityEditor;
+using System.Collections.Generic;
+using FirstGearGames.SmoothCameraShaker;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.Android;
 using UnityEngine.Events;
@@ -39,6 +41,7 @@ public class DialogueEngine : MonoBehaviour
         else if ((Input.GetButtonDown("Jump") || Input.GetMouseButtonDown(0)) && !canProceed)
         {
             textReader.SkipAnimationText();
+            CameraShakerHandler.StopAll();
         }
     }
 
